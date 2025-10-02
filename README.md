@@ -23,7 +23,7 @@ Analytical Skills: Extracting insights on conflict escalation, fatalities, and r
 
 ## Outcomes
 
-Produced a set of interactive dashboards to explore 350k+ global conflict and protest events.
+Produced a set of interactive dashboards to explore 73k+ global conflict and protest events.
 
 Identified that civil unrest is the dominant event type globally, with spikes in specific regions after 2010.
 
